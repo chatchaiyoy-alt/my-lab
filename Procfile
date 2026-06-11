@@ -1,1 +1,0 @@
-worker: python bot_handler.py
